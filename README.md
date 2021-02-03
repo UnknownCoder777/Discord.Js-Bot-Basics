@@ -21,6 +21,12 @@ Open config.json in our folder.
 Replace YOUR BOT TOKEN with your token that you have copied from Discord Developers Portal.
 And replace YOUR PREFIX with a prefix of your wish.
 
+Then you can start your bot by clicking start.bat. 
+
+For help you can join (https://discord.gg/cSkusSBJ8U) here . 
+
+Thank you !!! 
+
 
 
 
