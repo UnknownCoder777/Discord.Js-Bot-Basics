@@ -25,10 +25,9 @@ Then you can start your bot by clicking start.bat.
 
 For help you can join (https://discord.gg/cSkusSBJ8U) here . 
 
+
+Note : THIS IS ONLY A BASIC CODE . YOU CAN ADD MORE CODES . DO CUSTOM OR SEARCH GOOGLE. 
+
 Thank you !!! 
-
-
-
-
 
 
